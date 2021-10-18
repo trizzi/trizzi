@@ -21,11 +21,10 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <!-- <img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /> -->
-<img align="left" alt="Kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img align="left" alt="android" width="40px" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" />
-<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<!-- <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> -->
+<img align="left" alt="Javascript" width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+
+<img align="left" alt="Vue" width="40px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <br />
 <br />
@@ -35,7 +34,6 @@
 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-<img align="left" alt="androidStudio" width="40px" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="mongodb" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
