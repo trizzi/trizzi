@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 <br />
 <hr />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?trizzi=DenverCoder1&theme=dark)](https://git.io/streak-stats)]
+
 ### Languages and Libraries
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -52,7 +54,8 @@ Here are some ideas to get you started:
 <br />
 <hr />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?trizzi=DenverCoder1)](https://git.io/streak-stats)
+
+
 
 
 ### Tools and other stuff
