@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 <br />
 <hr />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?trizzi=DenverCoder1)](https://git.io/streak-stats)
+
+
 ### Tools and other stuff
 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
