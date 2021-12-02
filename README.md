@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 <hr />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?trizzi=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=trizzi&color=green)
+
 
 
 ### Languages and Libraries
