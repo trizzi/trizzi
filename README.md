@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <br />
+
 <hr />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?trizzi=DenverCoder1&theme=dark)](https://git.io/streak-stats)
