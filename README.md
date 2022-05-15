@@ -11,8 +11,9 @@
 <h1 align="center">
 
 ![Trizzi's github stats](https://github-readme-stats.vercel.app/api?username=trizzi&show_icons=true)
-
 </h1>
+
+
 
 <!--
 **trizzi/trizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
