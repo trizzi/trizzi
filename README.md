@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Vue" width="40px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="C" width="40px" src="https://www.vectorlogo.zone/logos/c/c-icon.svg" />
 <br />
 <br />
 <hr />
