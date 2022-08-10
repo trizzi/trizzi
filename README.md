@@ -10,17 +10,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrick-akhamiogu-8750b6177/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/gallery/OQUXwNp"/></a>
+  <a href="https://www.linkedin.com/in/patrick-akhamiogu-8750b6177/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Trizzi_ric"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@patrickakhamiogu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://imgur.com/gallery/3xf1xOs"/></a>
+  <a href="https://medium.com/@patrickakhamiogu"><img width="32px" src="https://i.imgur.com/3xf1xOs.png" alt="Medium" title="Medium"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/trizzi_ric/"><img width="32px" alt="Dev.to" title="trizzi Dev.to" src="https://imgur.com/gallery/DKdonlh"></a>
+  <a href="https://www.instagram.com/trizzi_ric/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/DKdonlh.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/users/14666350/patrick-akhamiogu?tab=profile"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://imgur.com/gallery/gZxmnyn"/></a>
+  <a href="https://stackoverflow.com/users/14666350/patrick-akhamiogu?tab=profile"><img width="32px" alt="Stackoverflow" title="Stackoverflow" src="https://i.imgur.com/gZxmnyn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patrickakhamiogu.xyz"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://imgur.com/gallery/6z13lku"/></a>
+  <a href="https://www.patrickakhamiogu.xyz"><img width="32px" alt="My-Portfolio" title="My-Portfolio" src="https://i.imgur.com/6z13lku.png"/></a>
 </p>
 
 
@@ -112,8 +112,8 @@ Here are some ideas to get you started:
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="trizzi's Github Stats" src="https://trizzi-github-readme-stats.vercel.app/api/?username=trizzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="trizzi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizzi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trizzi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=trizzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trizzi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizzi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -134,4 +134,4 @@ Here are some ideas to get you started:
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="trizzi's Activity Graph" src="https://trizzi-activity-graph.herokuapp.com/graph/?username=trizzi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Trizzi's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=trizzi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
