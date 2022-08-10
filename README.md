@@ -30,44 +30,6 @@
 - 📫 How to reach me: [Email me](mailto:patrickakhamiogu@gmail.com)
 - Check me out on my website: https://www.patrickakhamiogu.xyz/
 
-<h1 align="center">
-
-![Trizzi's github stats](https://github-readme-stats.vercel.app/api?username=trizzi&show_icons=true)
-</h1>
-
-
-
-<!--
-**trizzi/trizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-### Connect with me
-
-<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<br />
-
-<hr />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?trizzi=trizzi&theme=dark)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=trizzi&color=green)
-
-
-
 ### Languages and Libraries
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
