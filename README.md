@@ -40,7 +40,7 @@
 
 <img align="left" alt="Vue" width="40px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="C" width="40px" src="https://dribbble.com/shots/3937394-Letter-C-logo-Alphabet-logotype-vector-design/attachments/10105894?mode=media" />
+<img align="left" alt="C" width="40px" src="https://www.pinterest.com/pin/131378514114761417/" />
 <br />
 <br />
 <hr />
