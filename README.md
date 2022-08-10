@@ -80,20 +80,5 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/nextcord/nextcord-ext-help-commands/pull/4) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-2. 🗣 Commented on [#4](https://github.com/nextcord/nextcord-ext-help-commands/issues/4) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-3. 💪 Opened PR [#125](https://github.com/trizzi/readme-typing-svg/pull/125) in [trizzi/readme-typing-svg](https://github.com/trizzi/readme-typing-svg)
-4. 🎉 Merged PR [#124](https://github.com/trizzi/readme-typing-svg/pull/124) in [trizzi/readme-typing-svg](https://github.com/trizzi/readme-typing-svg)
-5. 💪 Opened PR [#124](https://github.com/trizzi/readme-typing-svg/pull/124) in [trizzi/readme-typing-svg](https://github.com/trizzi/readme-typing-svg)
-<!--END_SECTION:activity-->
-</details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Trizzi's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=trizzi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
