@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on many open-source projects 💖
 - 💬 Ask me about anything! 🤗
 - 📫 How to reach me: [Email me](mailto:patrickakhamiogu@gmail.com)
-- Check me out on my website: https://www.patrickakhamiogu.online/
+- Check me out on my website: https://www.patrickakhamiogu.org/
 
 ### Languages and Libraries
 
