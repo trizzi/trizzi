@@ -20,12 +20,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stackoverflow.com/users/14666350/patrick-akhamiogu?tab=profile"><img width="32px" alt="Stackoverflow" title="Stackoverflow" src="https://i.imgur.com/gZxmnyn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patrickakhamiogu.xyz"><img width="32px" alt="My-Portfolio" title="My-Portfolio" src="https://i.imgur.com/6z13lku.png"/></a>
+  <a href="https://www.patrickakhamiogu.org"><img width="32px" alt="My-Portfolio" title="My-Portfolio" src="https://i.imgur.com/6z13lku.png"/></a>
 </p>
 
 
-- 🔭 I’m currently looking for some interesting projects to work!
-- 👯 I’m looking to collaborate on many open source projects 💖
+- 🔭 I’m currently looking for some interesting projects to work on!
+- 👯 I’m looking to collaborate on many open-source projects 💖
 - 💬 Ask me about anything! 🤗
 - 📫 How to reach me: [Email me](mailto:patrickakhamiogu@gmail.com)
 - Check me out on my website: https://www.patrickakhamiogu.online/
