@@ -65,7 +65,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/trizzi/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/trizzi/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Trizzi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=trizzi&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Trizzi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=trizzi&theme=monokai-metallian&hide_border=true" />
 
 
 ## 📊 Github stats
