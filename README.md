@@ -25,7 +25,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trizzi&label=Profile%20views&color=0e75b6&style=flat" alt="trizzi" /> </p>
 
-
 - 🔭 I’m currently looking for some interesting projects to work on!
 - 👯 I’m looking to collaborate on many open-source projects 💖
 - 💬 Ask me about anything! 🤗
