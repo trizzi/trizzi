@@ -40,7 +40,7 @@
 <img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
 <img align="left" alt="Javascript" width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-
+<img align="left" alt="Angular" width="40px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
 <img align="left" alt="Vue" width="40px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="C" width="40px" src="https://i.imgur.com/JEbSO.png" />
