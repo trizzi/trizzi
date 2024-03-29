@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <!-- Copied from SVG by trizzi - https://github.com/trizzi/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/trizzi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -23,6 +25,7 @@
   <a href="https://www.patrickakhamiogu.org"><img width="32px" alt="My-Portfolio" title="My-Portfolio" src="https://i.imgur.com/6z13lku.png"/></a>
 </p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trizzi&label=Profile%20views&color=0e75b6&style=flat" alt="trizzi" /> </p>
 
 - 🔭 I’m currently looking for some interesting projects to work on!
@@ -32,6 +35,7 @@
 - Check me out on my website: https://www.patrickakhamiogu.org/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trizzi" alt="trizzi" /></a> </p>
+
 
 ### Languages and Libraries
 
@@ -48,6 +52,7 @@
 <br />
 <hr />
 
+
 ### Tools and other stuff
 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
@@ -62,12 +67,14 @@
 <br />
 <hr />
 
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/trizzi/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/trizzi/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Trizzi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=trizzi&theme=monokai-metallian&hide_border=true" />
+
 
 ## 📊 Github stats
 
@@ -80,6 +87,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 [![trizzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trizzi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/trizzi/github-readme-activity-graph)
