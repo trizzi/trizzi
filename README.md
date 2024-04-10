@@ -51,7 +51,6 @@
 <br />
 <hr />
 
-
 ### Tools and other stuff
 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
