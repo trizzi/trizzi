@@ -32,7 +32,6 @@
 - 📫 How to reach me: [Email me](mailto:patrickakhamiogu@gmail.com)
 - Check me out on my website: https://www.patrickakhamiogu.org/
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trizzi" alt="trizzi" /></a> </p>
 
 ### Languages and Libraries
