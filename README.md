@@ -23,7 +23,6 @@
   <a href="https://www.patrickakhamiogu.org"><img width="32px" alt="My-Portfolio" title="My-Portfolio" src="https://i.imgur.com/6z13lku.png"/></a>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trizzi&label=Profile%20views&color=0e75b6&style=flat" alt="trizzi" /> </p>
 
 - 🔭 I’m currently looking for some interesting projects to work on!
