@@ -70,7 +70,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Trizzi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=trizzi&theme=monokai-metallian&hide_border=true" />
 
 
+
 ## 📊 Github stats
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
