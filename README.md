@@ -77,11 +77,10 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trizzi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=trizzi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="300px"/></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trizzi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=trizzi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/></a> 
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trizzi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizzi&langs_count=8&layout=pie&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&card_width=400" height="300px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
