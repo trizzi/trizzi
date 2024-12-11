@@ -65,6 +65,7 @@
 <hr />
 
 ## 🔥 Streak stats
+
 <!-- GitHub Readme Streak Stats - https://github.com/trizzi/github-readme-streak-stats -->
 
 <p align="center">
