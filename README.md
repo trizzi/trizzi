@@ -75,7 +75,6 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
